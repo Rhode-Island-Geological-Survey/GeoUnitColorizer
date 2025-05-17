@@ -10,7 +10,7 @@ version=0.1
 author=savage13
 email=savage@uri.edu
 
-about=Easily color geologic map units based on USGS Colors and Patterns (https://pubs.usgs.gov/tm/2005/11B01/05tm11b01.html). 
+about=Easily color geologic map units based on USGS Colors and Patterns (https://pubs.usgs.gov/tm/2005/11B01/05tm11b01.html)
 
 tracker=https://github.com/Rhode-Island-Geological-Survey/GeoUnitColorizer
 repository=https://github.com/Rhode-Island-Geological-Survey/GeoUnitColorizer
