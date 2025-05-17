@@ -11,6 +11,10 @@ Quickly apply fill colors to polygons within a map layer without going through t
 defined by the [USGS Color and Patterns](https://pubs.usgs.gov/tm/2005/11B01/05tm11b01.html).  They are defined by Unit Age 
 and shade.
 
+Installation
+------------
+Download repository into your Python plugins directory.
+
 License
 -------
 
