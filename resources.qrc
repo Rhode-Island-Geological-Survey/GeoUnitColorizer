@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/geo_unit_colorizer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
